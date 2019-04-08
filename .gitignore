@@ -1,0 +1,3 @@
+deps
+apps/*/.rebar
+apps/*/ebin
